@@ -1,0 +1,1 @@
+{"photo.jpg": 35.0, "presentation.pptx": 40.0, "text1.txt": 1.0, "size": 3}
