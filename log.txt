@@ -1,1 +1,1 @@
-{"photo.jpg": 35.0, "presentation.pptx": 40.0, "text1.txt": 1.0, "size": 3}
+{"size": 3, "photo.jpg": "af3746e09e4d4e5e1f362bc19e4e73f8", "presentation.pptx": "ddf43c058fa9b0e4da762b1935975a4e", "text1.txt": "e0559d0ae32c0f58035b6c1e735cbab7"}
